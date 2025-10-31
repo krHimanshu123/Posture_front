@@ -32,6 +32,7 @@ const slideInRight = keyframes`
   to {
     opacity: 1;
     transform: translateX(0);
+    
   }
 `;
 
