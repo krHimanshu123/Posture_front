@@ -67,6 +67,7 @@ const WebcamElement = styled(Webcam)`
     width: 100%;
     max-width: 480px;
     height: auto;
+    
   }
 `;
 
