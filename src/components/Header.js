@@ -90,6 +90,7 @@ const Subtitle = styled.p`
   color: #ffffff;
   margin: 0;
   font-weight: 300;
+  
   letter-spacing: 0.5px;
   
   span {
