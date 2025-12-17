@@ -22,6 +22,7 @@ const pulse = keyframes`
     transform: scale(1);
     opacity: 1;
   }
+  
   50% {
     transform: scale(1.05);
     opacity: 0.8;
