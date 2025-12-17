@@ -37,6 +37,7 @@ const LoadingScreen = ({ isLoading }) => {
 };
 
 function App() {
+  
   const [mode, setMode] = useState('webcam'); // 'webcam' or 'upload'
   const [analysisType, setAnalysisType] = useState('squat'); // 'squat' or 'desk'
   const [analysisResults, setAnalysisResults] = useState(null);
