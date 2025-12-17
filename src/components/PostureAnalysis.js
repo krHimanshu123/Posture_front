@@ -17,6 +17,7 @@ const scoreAnimation = keyframes`
   from {
     stroke-dashoffset: 440;
   }
+  
   to {
     stroke-dashoffset: calc(440 - (440 * var(--progress) / 100));
   }
