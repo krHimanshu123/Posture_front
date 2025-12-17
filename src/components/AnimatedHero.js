@@ -78,6 +78,7 @@ const MainTitle = styled.h1`
   color: #ffffff;
   animation: ${slideInUp} 1s ease-out;
   font-family: 'Poppins', sans-serif;
+  
   line-height: 1.1;
   
   @media (max-width: 768px) {
