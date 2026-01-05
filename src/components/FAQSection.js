@@ -10,6 +10,7 @@ const FAQContainer = styled.section`
   border: 1px solid rgba(45, 55, 70, 0.8);
 `;
 
+
 const FAQTitle = styled.h2`
   color: #1E90FF;
   font-size: 2.5rem;
