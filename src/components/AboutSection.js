@@ -13,6 +13,7 @@ const fadeInUp = keyframes`
   }
 `;
 
+
 const slideInLeft = keyframes`
   from {
     opacity: 0;
